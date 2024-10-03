@@ -21,8 +21,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="svg" src="/images/XMU_logo.svg" width="23pt"></a> 厦门大学 新闻传播学院, 福建厦门, 硕士 
-- *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="svg" src="/images/SDU_logo.svg" width="20pt"></a> 山东大学 新闻传播学院, 山东济南, 本科
+- *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="/images/xmu_logo.jpg" width="23pt"></a> 厦门大学 新闻传播学院, 福建厦门, 硕士 
+- *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="/images/sdu_logo.jpg" width="20pt"></a> 山东大学 新闻传播学院, 山东济南, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -30,7 +30,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OIR 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Mingfei Sun, `Xu Dong*`. Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 2024. (SSCI)  
@@ -44,7 +44,7 @@ redirect_from:
 ### 中文
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">“Dialogue capability” at the grassroot</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 (https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
@@ -54,7 +54,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">科学学研究，2024</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 (https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
@@ -64,7 +64,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2024</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 (https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
@@ -74,7 +74,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，待刊</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 (https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
@@ -87,12 +87,12 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
--*2024.05*新闻传播学博士生论坛优秀论文奖
--*2023.06*厦门大学优秀毕业生
--*2023.06*厦门大学远绅奖学金
--*2022.09*厦门大学三好学生
--*2020.06*山东大学优秀毕业生
--*2018.10*山东大学三好学生
+- *2024.05*新闻传播学博士生论坛优秀论文奖
+- *2023.06*厦门大学优秀毕业生
+- *2023.06*厦门大学远绅奖学金
+- *2022.09*厦门大学三好学生
+- *2020.06*山东大学优秀毕业生
+- *2018.10*山东大学三好学生
 
 <span class='anchor' id='-xshy'></span>
 
