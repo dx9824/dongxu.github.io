@@ -31,6 +31,16 @@ redirect_from:
 
 ### 英文
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBSN 2025</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	- `*Dong, X.*`, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* (SSCI)  
+[[网页]]([https://doi.org/10.1089/cyber.2024.0468]) 
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OIR 2024</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
