@@ -36,7 +36,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] `Dong, X.`, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* (SSCI)  
-[[网页]]([https://doi.org/10.1089/cyber.2024.0468]) 
+[[HTML]]([https://doi.org/10.1089/cyber.2024.0468]) 
 
 </div>
 </div>
@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] Sun, M., `Dong, X.*`. Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 2024. (SSCI)  
-[[网页]](https://doi.org/10.1108/OIR-09-2023-0505) 
+[[HTML]](https://doi.org/10.1108/OIR-09-2023-0505) 
 
 </div>
 </div>
@@ -55,7 +55,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025).Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research* 
-[[网页]]([https://doi.org/10.1089/cyber.2024.0468]) 
+[[HTML]]([https://doi.org/10.1089/cyber.2024.0468]) 
 
 </div>
 </div>
@@ -67,9 +67,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2025</div><img src='images/道德.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[网页]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
-
 [**CSSCI**] `董旭`，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3）。
+[[HTML]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
 </div>
 </div>
 
@@ -78,9 +77,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">科学学研究，2025</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[网页]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
-
 [**CSSCI**] `董旭`，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》,(3)。
+[[HTML]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 </div>
 </div>
 
@@ -88,9 +86,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[网页]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
-
 [**CSSCI**] `董旭`，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4）。
+[[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
 </div>
 </div>
 
@@ -98,9 +95,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2024</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[网页]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
-
 [**CSSCI**] 宫贺，`董旭*`(通讯作者）（2024）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
+[[HTML]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 </div>
 </div>
 
@@ -108,9 +104,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际新闻界，2024</div><img src='images/道歉.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[网页]]([https://doi.org/10.20050/j.cnki.xwdx.2024.10.009])
-
 [**CSSCI**] 宫贺，马丹凤，`董旭*`(通讯作者）（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11）。
+[[HTML]]([https://doi.org/10.20050/j.cnki.xwdx.2024.10.009])
 </div>
 </div>
 
@@ -118,9 +113,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2025</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[网页]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
-
 [**CSSCI**] 张辉锋，`董旭`（2025）。CAGE框架下多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》,(3)。
+[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
 </div>
 </div>
 
