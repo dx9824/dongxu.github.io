@@ -107,7 +107,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2025</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CSSCI**] 张辉锋，`董旭`（2025）。CAGE框架下多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》,(3)。
+[**CSSCI**] 张辉锋，`董旭`（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》,(3)。
 [[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008) [[PDF]](/images/动画电影.pdf)
 </div>
 </div>
