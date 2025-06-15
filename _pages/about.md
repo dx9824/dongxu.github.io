@@ -23,8 +23,8 @@ redirect_from:
 # 🎓 教育经历
 - *2025.08 -2026.07*, <a href="https://www.nus.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> 新加坡国立大学 传播与新媒体系, 新加坡, 国家公派博士生联合培养 
 - *2023.09 -*, <a href="https://www.ruc.edu.cn/"><img class="png" src="images/ruclogo1.png" width="25pt"></a> 中国人民大学 新闻学院, 北京, 博士在读 
-- *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="images/xmu_logo.jpg" width="25pt"></a> 厦门大学 新闻传播学院, 福建厦门, 硕士 
-- *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="images/sdu.jpeg" width="25pt"></a> 山东大学 新闻传播学院, 山东济南, 本科
+- *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="images/xmu_logo.jpg" width="25pt"></a> 厦门大学 新闻传播学院, 福建厦门, 新闻与传播专业硕士学位
+- *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="images/sdu.jpeg" width="25pt"></a> 山东大学 新闻传播学院, 山东济南, 新闻学学士学位
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -89,7 +89,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2024</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CSSCI**] 宫贺，`董旭*`(通讯作者）（2024）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
+[**CSSCI**] 宫贺，`董旭*`(通讯作者）（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10）。
 [[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2024.10.009)
 </div>
 </div>
@@ -129,10 +129,13 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议（2023-）
-- *2025.07*, 2025IAMCR, 新加坡, 论坛报告
-- *2025.05*, 2025ICA, 美国丹佛, 论坛报告
-- *2024.08*, 2024AEJMC, 美国费城, 论坛报告
-- *2024.06*, 2024ICA, 澳大利亚黄金海岸, 论坛报告
+### 国际
+- *2025.08*, AEJMC, 美国旧金山, 海报张贴
+- *2025.07*, IAMCR, 新加坡, 论坛报告
+- *2025.05*, ICA, 美国丹佛, 论坛报告
+- *2024.08*, AEJMC, 美国费城, 论坛报告
+- *2024.06*, ICA, 澳大利亚黄金海岸, 论坛报告
+### 国内
 - *2025.06*, 中国新闻史学会公共关系专业委员会战略传播与公共关系工作坊, 河北保定, 论坛报告
 - *2024.12*, 中国新闻史学会新媒体传播学年会, 北京海淀, 论坛报告
 - *2024.11*, 中国新闻史学会智能与计算传播学年会, 浙江杭州, 论坛报告
