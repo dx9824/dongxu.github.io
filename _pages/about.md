@@ -50,7 +50,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPOR 2025</div><img src='/images/loneliness.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPOR 2025</div><img src='/images/Figure 2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	- Huang, M., `Dong, X.`, Gong, H. (2025).Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research* (SSCI)  
