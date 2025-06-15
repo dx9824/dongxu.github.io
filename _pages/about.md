@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBSN 2025</div><img src='/images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	- `*Dong, X.*`, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* (SSCI)  
+-	- `Dong, X.`, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* (SSCI)  
 [[网页]]([https://doi.org/10.1089/cyber.2024.0468]) 
 
 </div>
@@ -46,6 +46,15 @@ redirect_from:
 
 -	Mingfei Sun, `Xu Dong*`. Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 2024. (SSCI)  
 [[网页]](https://doi.org/10.1108/OIR-09-2023-0505) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPOR 2025</div><img src='/images/loneliness.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	- Huang, M., `Dong, X.`, Gong, H. (2025).Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research* (SSCI)  
+[[网页]]([https://doi.org/10.1089/cyber.2024.0468]) 
 
 </div>
 </div>
