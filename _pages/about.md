@@ -21,7 +21,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - *, <a href="https://www.ruc.edu.cn/"><img src="{{ site.baseurl }}/images/xmu_logo.jpg" width="20pt"></a> 中国人民大学 新闻学院, 北京, 博士在读 
+- *2023.09 - *, <a href="https://www.ruc.edu.cn/"><img src="{{ site.baseurl }}/images/ruclogo.png" width="20pt"></a> 中国人民大学 新闻学院, 北京, 博士在读 
 - *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="/images/xmu_logo.jpg" width="20pt"></a> 厦门大学 新闻传播学院, 福建厦门, 硕士 
 - *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="/images/sdu_logo.jpg" width="20pt"></a> 山东大学 新闻传播学院, 山东济南, 本科
  
