@@ -63,15 +63,15 @@ redirect_from:
 
 ### 中文
 ---
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2024</div><img src='/images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2025</div><img src='/images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[网页]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
+[[网页]]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
 
-[**CSSCI**] **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4）。
+[**CSSCI**] `董旭`，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3）。
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">科学学研究，2024</div><img src='/images/3.png' alt="sym" width="100%"></div></div>
@@ -79,7 +79,17 @@ redirect_from:
 
 [[网页]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
-[**CSSCI**] **董旭**，罗逸琳（2024）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》。
+[**CSSCI**] `董旭`，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》,(3)。
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2024</div><img src='/images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[网页]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
+
+[**CSSCI**] `董旭`，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4）。
 </div>
 </div>
 
@@ -89,7 +99,17 @@ redirect_from:
 
 [[网页]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
-[**CSSCI**] 宫贺，**董旭**（2024）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
+[**CSSCI**] 宫贺，`董旭*`(通讯作者）（2024）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2024</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[网页]]([https://doi.org/10.20050/j.cnki.xwdx.2024.10.009])
+
+[**CSSCI**] 宫贺，马丹凤，`董旭*`(通讯作者）（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11）。
 </div>
 </div>
 
@@ -97,9 +117,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2025</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[网页]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[[网页]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
 
-[**CSSCI**] 张辉锋，**董旭**（2025）。CAGE框架下多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》。
+[**CSSCI**] 张辉锋，`董旭`（2025）。CAGE框架下多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》,(3)。
 </div>
 </div>
 
