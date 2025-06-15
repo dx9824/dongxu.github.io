@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/d1ce19b2-f370-4861-b64e-79a80458123f)---
 permalink: /
 title: ""
 excerpt: ""
@@ -21,7 +21,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - *, <a href="https://www.ruc.edu.cn/"><img src="{/images/ruclogo.png" width="20pt"></a> 中国人民大学 新闻学院, 北京, 博士在读 
+- *2023.09 -*, <a href="https://www.ruc.edu.cn/"><img src="{/images/ruclogo.png" width="20pt"></a> 中国人民大学 新闻学院, 北京, 博士在读 
 - *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="/images/xmu_logo.jpg" width="20pt"></a> 厦门大学 新闻传播学院, 福建厦门, 硕士 
 - *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="/images/sdu_logo.jpg" width="20pt"></a> 山东大学 新闻传播学院, 山东济南, 本科
  
@@ -63,7 +63,7 @@ redirect_from:
 
 ### 中文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2025</div><img src='/images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2025</div><img src='/images/道德.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[网页]]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
@@ -104,7 +104,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2024</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2024</div><img src='/images/道歉.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[网页]]([https://doi.org/10.20050/j.cnki.xwdx.2024.10.009])
@@ -127,7 +127,10 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2024.05*新闻传播学博士生论坛优秀论文奖
+- *2025.02*2025国际传播学年会（ICA）公共关系组最佳学生论文奖（一作）
+- *2024.12*国家奖学金
+- *2024.12*中国人民大学学术拔尖创新人才
+- *2024.11*中国新闻史学会智能与计算传播专委会2024年会优秀论文奖（一作）
 - *2023.06*厦门大学优秀毕业生
 - *2023.06*厦门大学远绅奖学金
 - *2022.09*厦门大学三好学生
@@ -147,10 +150,12 @@ redirect_from:
 # 💻 科研项目
 
 ### 主持
-
-- *2022.06 - 2023.06*, 厦门大学研究生案例立项(PI)
+- *2025.06 -*, 四川网络文化研究中心项目《网络舆论的跨平台扩散效应与社会信任重构研究》
+- *2024.12 -*, 中国人民大学学术拔尖创新人才资助项目
+- *2022.06 - 2023.06*, 厦门大学研究生案例立项
 
 ### 参与
-- *2023.09 -*,  国家社会科学基金一般项目 (No. 23BXW032)" (RA)
-- *2024.07 -*,  四川省哲学社会科学重点研究基地社会治理创新研究中心2024年度一般项目 (No.SHZLYB2406)(RA)
-- *2023.07-*,   人大“双一流”建设马克思主义新闻观课题 (No.MXG202308)(RA)
+- *2025.03 -*,北京市社会科学基金重大专项（NO.25ZDA16）
+- *2023.09 -*,  国家社会科学基金一般项目 (No. 23BXW032) 
+- *2024.07 -*,  四川省哲学社会科学重点研究基地社会治理创新研究中心2024年度一般项目 (No.SHZLYB2406)
+- *2023.07-*,   人大“双一流”建设马克思主义新闻观课题 (No.MXG202308)
