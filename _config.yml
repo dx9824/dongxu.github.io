@@ -25,8 +25,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "董旭"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "中国人民大学"
-  location         : "北京"
+  bio              : "中国人民大学新闻学院"
+  location         : "中国，北京"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KKnaHy4AAAAJ"
@@ -53,7 +53,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "dongxu95222775"
   vine             :
   weibo            :
   xing             :
