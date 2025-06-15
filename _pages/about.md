@@ -28,7 +28,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文
+# 📝 论文发表
 
 ### 英文
 ---
