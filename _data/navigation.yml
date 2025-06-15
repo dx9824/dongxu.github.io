@@ -1,6 +1,5 @@
 # main links links
 main:
-
   - title: "教育经历"
     url: "/dongxu.github.io/#-educations"
 
@@ -15,3 +14,6 @@ main:
 
   - title: "科研项目"
     url: "/dongxu.github.io/#-projects-and-funding"
+    
+  - title: "个人简历"
+    url: "/pdf/raw/main/image/董旭-学术简历-15965315227.pdf"
