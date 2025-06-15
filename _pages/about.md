@@ -29,14 +29,11 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文发表
-
-### 英文
----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBSN 2025</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] `Dong, X.`, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* (SSCI)  
-[[HTML]]([https://doi.org/10.1089/cyber.2024.0468]) 
+[[HTML]](https://doi.org/10.1089/cyber.2024.0468) 
 
 </div>
 </div>
@@ -51,19 +48,17 @@ redirect_from:
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPOR 2025</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025).Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research* 
-[[HTML]]([https://doi.org/10.1089/cyber.2024.0468]) 
+[[HTML]](https://doi.org/10.1089/cyber.2024.0468) 
 
 </div>
 </div>
 
 
-
-### 中文
----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2025</div><img src='images/道德.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,7 +66,6 @@ redirect_from:
 [[HTML]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">科学学研究，2025</div><img src='images/3.png' alt="sym" width="100%"></div></div>
@@ -96,7 +90,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] 宫贺，`董旭*`(通讯作者）（2024）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
-[[HTML]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2024.10.009)
 </div>
 </div>
 
@@ -105,7 +99,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] 宫贺，马丹凤，`董旭*`(通讯作者）（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11）。
-[[HTML]]([https://doi.org/10.20050/j.cnki.xwdx.2024.10.009])
+[[HTML]](https://link.cnki.net/doi/10.13495/j.cnki.cjjc.2024.11.007)
 </div>
 </div>
 
