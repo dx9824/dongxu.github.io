@@ -44,7 +44,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OIR 2024</div><img src='/images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Mingfei Sun, `Xu Dong*`. Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 2024. (SSCI)  
+-	Sun, M., `Dong, X.*`. Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 2024. (SSCI)  
 [[网页]](https://doi.org/10.1108/OIR-09-2023-0505) 
 
 </div>
