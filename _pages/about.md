@@ -21,7 +21,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育经历
-- *2025.08 -2026.07*, <a href="https://www.nuc.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> 新加坡国立大学 传播与新媒体系, 新加坡, 国家公派博士联合培养 
+- *2025.08 -2026.07*, <a href="https://www.nuc.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> 新加坡国立大学 传播与新媒体系, 新加坡, 国家公派博士生联合培养 
 - *2023.09 -*, <a href="https://www.ruc.edu.cn/"><img class="png" src="images/ruclogo1.png" width="25pt"></a> 中国人民大学 新闻学院, 北京, 博士在读 
 - *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="images/xmu_logo.jpg" width="25pt"></a> 厦门大学 新闻传播学院, 福建厦门, 硕士 
 - *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="images/sdu.jpeg" width="25pt"></a> 山东大学 新闻传播学院, 山东济南, 本科
