@@ -42,7 +42,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OIR 2024</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	[**SSCI**] Sun, M., `Dong, X.*`. (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*.  
+-	[**SSCI**] Sun, M., `Dong, X.*`(通讯作者). (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*.  
 [[HTML]](https://doi.org/10.1108/OIR-09-2023-0505) 
 
 </div>
