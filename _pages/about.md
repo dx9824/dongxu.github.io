@@ -21,7 +21,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 👏 欢迎来到我的个人主页
-我目前就读于中国人民大学新闻学院，专业为传媒经济学，师从[张辉锋教授]（http://jcr.ruc.edu.cn/zw/jzyg/js/e48d5ecf199647e6b6d66187405d2579.htm）；目前正在新加坡国立大学传播与新媒体系进行国家公派博士生联合培养，方向为计算传播学，师从[Subhayan Mukerjee助理教授]（https://www.subhayan.com/）。我的硕士导师为宫贺教授[（http://jcr.ruc.edu.cn/zw/jzyg/js/96c9099a4c7348c6801c7cec77e74a9b.htm）]。
+我目前就读于中国人民大学新闻学院，专业为传媒经济学，师从[张辉锋教授](http://jcr.ruc.edu.cn/zw/jzyg/js/e48d5ecf199647e6b6d66187405d2579.htm)；目前正在新加坡国立大学传播与新媒体系进行国家公派博士生联合培养，方向为计算传播学，师从[Subhayan Mukerjee助理教授](https://www.subhayan.com/)。我的硕士导师为[宫贺教授](http://jcr.ruc.edu.cn/zw/jzyg/js/96c9099a4c7348c6801c7cec77e74a9b.htm)。
 我的研究兴趣主要包括：智能与计算传播、公共传播、科学传播。
 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
 
