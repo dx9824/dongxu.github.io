@@ -166,3 +166,12 @@ redirect_from:
 - *2023.07 -*（在研）, 人大“双一流”建设马克思主义新闻观课题 (No.MXG202308)
 - *2023.09 - 2025.04*（结项）,  国家社会科学基金一般项目 (No. 23BXW032) 
 - *2024.07 - 2025.06*（结项）,  四川省哲学社会科学重点研究基地社会治理创新研究中心2024年度一般项目 (No.SHZLYB2406)
+
+<span class='anchor' id='-gzsx'></span>
+
+# 📚 学术服务
+- CSSCI期刊《国际新闻界》责任编辑
+- SSCI期刊《Information Processing & Management》《Online Information Review》审稿人
+- ICA，AEJMC等国际顶会审稿人
+
+<span class='anchor' id='-gzsx'></span>
