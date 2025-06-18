@@ -53,7 +53,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research* .
-[[HTML]](https://doi.org/10.1089/cyber.2024.0468) 
+[[HTML]](https://doi.org//10.1093/ijpor/edaf028) 
 
 </div>
 </div>
