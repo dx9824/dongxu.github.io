@@ -37,8 +37,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBSN 2025</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	[**SSCI**] `Dong, X.`, Xie, J., Gong, H. (2025). A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* .
-[[HTML]](https://doi.org/10.1089/cyber.2024.0468) 
+-	[**SSCI**] `Dong, X.`, Xie, J., Gong, H. (2025). A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* . 
+[[HTML]](https://doi.org/10.1089/cyber.2024.0468) （影响因子：3.9）
 
 </div>
 </div>
@@ -48,7 +48,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] Sun, M., `Dong, X.*`(通讯作者). (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*.  
-[[HTML]](https://doi.org/10.1108/OIR-09-2023-0505) 
+[[HTML]](https://doi.org/10.1108/OIR-09-2023-0505) （影响因子：3.5）
 
 </div>
 </div>
@@ -58,7 +58,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research* .
-[[HTML]](https://doi.org//10.1093/ijpor/edaf028) 
+[[HTML]](https://doi.org//10.1093/ijpor/edaf028) （影响因子：1.3）
 
 </div>
 </div>
@@ -68,7 +68,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] `董旭`，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3）。
-[[HTML]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
+[[HTML]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)（影响因子：4.8）
 </div>
 </div>
 
@@ -77,7 +77,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] `董旭`，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》,(3)。
-[[HTML]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[[HTML]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)（影响因子：8.6）
 </div>
 </div>
 
@@ -86,7 +86,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] `董旭`，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4）。
-[[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
+[[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)（影响因子：4.8）
 </div>
 </div>
 
@@ -95,7 +95,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] 宫贺，`董旭*`(通讯作者）（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10）。
-[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2024.10.009)
+[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2024.10.009)（影响因子：4.0）
 </div>
 </div>
 
@@ -104,7 +104,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] 宫贺，马丹凤，`董旭*`(通讯作者）（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11）。
-[[HTML]](https://link.cnki.net/doi/10.13495/j.cnki.cjjc.2024.11.007)
+[[HTML]](https://link.cnki.net/doi/10.13495/j.cnki.cjjc.2024.11.007)（影响因子：5.5）
 </div>
 </div>
 
@@ -113,7 +113,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] 张辉锋，`董旭`（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》,(3)。
-[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
+[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)（影响因子：4.0）
 </div>
 </div>
 
