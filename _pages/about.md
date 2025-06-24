@@ -38,7 +38,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBSN 2025</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	[**SSCI**] `Dong, X.`, Xie, J., Gong, H. (2025). A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* . 
+-	[**SSCI**] `Dong, X.`, Xie, J., Gong, H. (2025). A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking*, 28(4),233-242. 
 [[HTML]](https://doi.org/10.1089/cyber.2024.0468) （影响因子：3.9）
 
 </div>
@@ -48,7 +48,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OIR 2024</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	[**SSCI**] Sun, M., `Dong, X.*`(通讯作者). (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*.  
+-	[**SSCI**] Sun, M., `Dong, X.*`(通讯作者). (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330.  
 [[HTML]](https://doi.org/10.1108/OIR-09-2023-0505) （影响因子：3.5）
 
 </div>
@@ -58,7 +58,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPOR 2025</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research* .
+-	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*, 37(3).
 [[HTML]](https://academic.oup.com/ijpor/article/37/3/edaf028/8170128) （影响因子：1.3）
 
 </div>
