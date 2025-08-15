@@ -22,9 +22,9 @@ redirect_from:
 
 # 👏 欢迎来到我的个人主页
 - 我目前就读于中国人民大学新闻学院，专业为传媒经济学，师从[张辉锋教授](http://jcr.ruc.edu.cn/zw/jzyg/js/e48d5ecf199647e6b6d66187405d2579.htm)；目前正在新加坡国立大学传播与新媒体系进行国家公派博士生联合培养，方向为计算传播学，师从[Subhayan Mukerjee助理教授](https://www.subhayan.com/)。硕士研究生阶段，我师从[宫贺教授](http://jcr.ruc.edu.cn/zw/jzyg/js/96c9099a4c7348c6801c7cec77e74a9b.htm)。
-- 我的研究兴趣主要包括：智能与计算传播、公共传播、科学传播。
+- 我的研究兴趣主要包括：智能与计算传播、公共传播、组织传播。
 - 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
-- 目前我已在《国际新闻界》《新闻大学》《新闻记者》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文10篇，相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
+- 目前我已在《国际新闻界》《新闻大学》《新闻记者》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文11篇（第一作者5篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
 
 # 🎓 教育经历
 - *2025.08 -2026.07*, <a href="https://www.nus.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> 新加坡国立大学 传播与新媒体系, 新加坡, 国家公派博士生联合培养 
@@ -35,6 +35,26 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文发表
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJOC 2025</div><img src='images/CJC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	[**SSCI**] Gong, H, `Dong, X.`*, Lv, Y. (2025). Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China. *Chinese Journal of Communication*.
+[[HTML]]() （影响因子：1.9）
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPOR 2025</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*, 37(3).
+[[HTML]](https://academic.oup.com/ijpor/article/37/3/edaf028/8170128) （影响因子：1.3）
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBSN 2025</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,15 +75,6 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPOR 2025</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*, 37(3).
-[[HTML]](https://academic.oup.com/ijpor/article/37/3/edaf028/8170128) （影响因子：1.3）
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻记者，2025</div><img src='images/道德.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,6 +90,15 @@ redirect_from:
 
 [**CSSCI**] `董旭`，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》,(3)。
 [[HTML]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)（影响因子：8.6）
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2025</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CSSCI**] 张辉锋，`董旭`（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》,(3)。
+[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)（影响因子：4.0）
 </div>
 </div>
 
@@ -109,14 +129,6 @@ redirect_from:
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">新闻大学，2025</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**CSSCI**] 张辉锋，`董旭`（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》,(3)。
-[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)（影响因子：4.0）
-</div>
-</div>
 
 
 <span class='anchor' id='-ryjx'></span>
@@ -176,8 +188,9 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 📚 学术服务
-- CSSCI期刊《国际新闻界》责任编辑
+- CSSCI期刊《国际新闻界》责任编辑（2023-）
 - SSCI期刊《Information Processing & Management》《Online Information Review》审稿人
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
