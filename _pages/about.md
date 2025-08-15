@@ -38,7 +38,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJOC 2025</div><img src='images/CJC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	[**SSCI**] Gong, H, `Dong, X.*`, Lv, Y. (2025). Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China. *Chinese Journal of Communication*.
+-	[**SSCI**] Gong, H, `Dong, X.*`, Lv, Y. (2025). Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China.*Chinese Journal of Communication*.
 [[HTML]]() （影响因子：1.9）
 
 </div>
@@ -193,5 +193,6 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
