@@ -75,7 +75,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际新闻界，2025</div><img src='images/道德.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际新闻界，2025</div><img src='images/net_data2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] `董旭`，肖鹏（2025待刊）。当信息接触泛起信任涟漪：差序政府信任的网络扩展及实证检验。《国际新闻界》。
@@ -202,6 +202,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
