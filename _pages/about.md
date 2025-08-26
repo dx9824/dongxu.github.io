@@ -35,7 +35,17 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文发表
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJOC 2025</div><img src='images/CJC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI 2025</div><img src='images/IJHCI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	[**SSCI**] `Dong, X.`, Zhang, H.(2025). Can AI Replace Actors? Research on the label effect of movie actor on audience watching intentions and transportation.*International Journal of Human-Computer Interaction*.
+[[HTML]](https://doi.org/10.1080/17544750.2025.2552246) （影响因子：4.9）
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJC 2025</div><img src='images/CJC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] Gong, H, `Dong, X.*`, Lv, Y. (通讯作者)(2025). Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China.*Chinese Journal of Communication*.
@@ -202,6 +212,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
