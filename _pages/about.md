@@ -24,7 +24,7 @@ redirect_from:
 - 我目前就读于中国人民大学新闻学院，专业为传媒经济学，师从[张辉锋教授](http://jcr.ruc.edu.cn/zw/jzyg/js/e48d5ecf199647e6b6d66187405d2579.htm)；目前正在新加坡国立大学传播与新媒体系进行国家公派博士生联合培养，方向为计算传播学，师从[Subhayan Mukerjee助理教授](https://www.subhayan.com/)。硕士研究生阶段，我师从[宫贺教授](http://jcr.ruc.edu.cn/zw/jzyg/js/96c9099a4c7348c6801c7cec77e74a9b.htm)。
 - 我的研究兴趣主要包括：智能与计算传播、公共传播、组织传播。
 - 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
-- 目前我已在《国际新闻界》《新闻大学》《新闻记者》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文12篇（第一作者5篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
+- 目前我已在《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文13篇（第一作者6篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
 
 # 🎓 教育经历
 - *2025.08 -2026.07*, <a href="https://www.nus.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> 新加坡国立大学 传播与新媒体系, 新加坡, 国家公派博士生联合培养 
@@ -35,7 +35,7 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文发表
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI 2025</div><img src='images/Figure4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI 2025</div><img src='images/frame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] `Dong, X.`, Zhang, H.(2025). Can AI Replace Actors? Research on the label effect of movie actor on audience watching intentions and transportation.*International Journal of Human-Computer Interaction*.
@@ -212,6 +212,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
