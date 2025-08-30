@@ -25,6 +25,8 @@ redirect_from:
 - 我的研究兴趣主要包括：智能与计算传播、公共传播、组织传播。
 - 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
 - 目前我已在《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文13篇（第一作者6篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
+- 我参与国家社科基金重大项目1项、国家社科基金一般项目1项、北京市社科重大专项1项；主持省厅级项目1项，主持校级科研项目2项。
+- 截至2025年8月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文9篇。2025年获ICA 公共关系组Top student paper（第一作者），连续两年获得清华大学博士生学术论坛“最佳论文奖”等，曾获中国人民大学博士研究生国家奖学金。
 
 # 🎓 教育经历
 - *2025.08 -2026.07*, <a href="https://www.nus.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> 新加坡国立大学 传播与新媒体系, 新加坡, 国家公派博士生联合培养 
@@ -212,6 +214,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
