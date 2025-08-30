@@ -39,7 +39,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	[**SSCI**] `Dong, X.`, Zhang, H.(2025). Can AI Replace Actors? Research on the label effect of movie actor on audience watching intentions and transportation.*International Journal of Human-Computer Interaction*.
-[[HTML]](https://doi.org/10.1080/17544750.2025.2552246) （影响因子：4.9）
+[[HTML]](https://doi.org/10.1080/10447318.2025.2555705) （影响因子：4.9）
 
 </div>
 </div>
@@ -212,6 +212,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
