@@ -22,7 +22,8 @@ redirect_from:
 
 # 👏 欢迎来到我的个人主页
 - 我目前就读于中国人民大学新闻学院，专业为传媒经济学，师从[张辉锋教授](http://jcr.ruc.edu.cn/zw/jzyg/js/e48d5ecf199647e6b6d66187405d2579.htm)；目前正在新加坡国立大学传播与新媒体系进行国家公派博士生联合培养，方向为计算传播学，师从[Subhayan Mukerjee助理教授](https://www.subhayan.com/)。硕士研究生阶段，我师从[宫贺教授](http://jcr.ruc.edu.cn/zw/jzyg/js/96c9099a4c7348c6801c7cec77e74a9b.htm)。
-- 我的研究兴趣主要包括：智能与计算传播、公共传播、组织传播。
+- 我的研究聚焦于技术中介的传播行为与数字治理，关注人工智能与数字媒体环境下，公众感知、信任建构与组织回应机制的传播过程，尤其是在风险与危机语境中的传播心理与舆论演化。
+- 我的研究兴趣主要包括：智能传播与人机交互、数字治理与危机传播、组织传播等。
 - 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
 - 目前我已在《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文13篇（第一作者6篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
 - 我参与国家社科基金重大项目1项、国家社科基金一般项目1项、北京市社科重大专项1项；主持省厅级项目1项，主持校级科研项目2项。
@@ -214,6 +215,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
