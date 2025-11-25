@@ -27,7 +27,8 @@ redirect_from:
 - 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
 - 目前我已在《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文13篇（第一作者6篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
 - 我参与国家社科基金重大项目1项、国家社科基金一般项目1项、北京市社科重大专项1项；主持省厅级项目1项，主持校级科研项目2项。
-- 截至2025年8月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文9篇。2025年获ICA 公共关系组Top student paper（第一作者），连续两年获得清华大学博士生学术论坛“最佳论文奖”等，曾获中国人民大学博士研究生国家奖学金。
+- 截至2025年8月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文9篇。2025年获ICA 公共关系组Top student paper（第一作者）。连续两年获得清华大学博士生学术论坛“最佳论文奖”。
+- 连续2年获得博士研究生国家奖学金，连续2年获得中国人民大学学业一等奖学金。
 
 # 🎓 教育经历
 - *2025.08 -2026.07*, <a href="https://www.nus.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> 新加坡国立大学 传播与新媒体系, 新加坡, 国家公派博士生联合培养 
@@ -48,6 +49,17 @@ redirect_from:
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBSN 2025</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	[**SSCI**] `Dong, X.`, Xie, J., Gong, H. (2025). A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking*, 28(4),233-242. 
+[[HTML]](https://doi.org/10.1089/cyber.2024.0468) （影响因子：3.9）
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJC 2025</div><img src='images/CJC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,16 +75,6 @@ redirect_from:
 
 -	[**SSCI**] Huang, M., `Dong, X.`, Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*, 37(3).
 [[HTML]](https://academic.oup.com/ijpor/article/37/3/edaf028/8170128) （影响因子：1.3）
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBSN 2025</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	[**SSCI**] `Dong, X.`, Xie, J., Gong, H. (2025). A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking*, 28(4),233-242. 
-[[HTML]](https://doi.org/10.1089/cyber.2024.0468) （影响因子：3.9）
 
 </div>
 </div>
@@ -112,6 +114,24 @@ redirect_from:
 
 [**CSSCI**] `董旭`，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》,(3)。
 [[HTML]](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)（影响因子：8.6）
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">传媒观察，2025</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CSSCI**] 孙铭菲，`董旭*`(通讯作者）（2025）。道德基础与情绪驱动：社交媒体用户生成的审核信息传播效果研究。《传媒观察》，（11）。
+[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2024.10.009)（影响因子：1.91）
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人口与社会，2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CSSCI扩展版**] 何欣璐，`董旭*`(通讯作者）（2025）。以谁为依？社交关系对老年群体养老责任观点影响研究。《人口与社会》。
+[[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)（影响因子：1.50）
 </div>
 </div>
 
@@ -215,6 +235,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
