@@ -118,7 +118,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">传媒观察，2025</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">传媒观察，2025</div><img src='传媒观察图.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] 孙铭菲，`董旭*`(通讯作者）（2025）。道德基础与情绪驱动：社交媒体用户生成的审核信息传播效果研究。《传媒观察》，（11）。
@@ -235,6 +235,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
