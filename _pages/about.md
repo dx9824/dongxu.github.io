@@ -131,7 +131,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI扩展版**] 何欣璐，`董旭*`(通讯作者）（2025）。以谁为依？社交关系对老年群体养老责任观点影响研究。《人口与社会》。
-[[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)（影响因子：1.50）
+[[HTML]](https://gfggab0461aaf3bb24cdbsq6ob5op659nk6nn0fhaz.libproxy.ruc.edu.cn/urlid/32.1851.C.20251203.1322.002)（影响因子：1.50）
 </div>
 </div>
 
@@ -239,6 +239,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
