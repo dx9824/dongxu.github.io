@@ -122,7 +122,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [**CSSCI**] 孙铭菲，`董旭*`(通讯作者）（2025）。道德基础与情绪驱动：社交媒体用户生成的审核信息传播效果研究。《传媒观察》，（11）。
-[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2024.10.009)（影响因子：1.91）
+[[HTML]](https://doi.org/10.19480/j.cnki.cmgc.2025.11.011)（影响因子：1.91）
 </div>
 </div>
 
@@ -239,6 +239,7 @@ redirect_from:
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
