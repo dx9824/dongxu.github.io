@@ -27,7 +27,7 @@ redirect_from:
 - 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
 - 目前我已在《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文13篇（第一作者6篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
 - 我参与国家社科基金重大项目1项、国家社科基金一般项目1项、北京市社科重大专项1项；主持省厅级项目1项，主持校级科研项目2项。
-- 截至2025年8月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文9篇。2025年获ICA 公共关系组Top student paper（第一作者）。连续两年获得清华大学博士生学术论坛“最佳论文奖”。
+- 截至2026年1月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文13篇。连续两年（2025、2026）获得国际传播协会（ICA）最佳学生论文奖。连续两年获得清华大学博士生学术论坛“最佳论文奖”。
 - 连续2年获得博士研究生国家奖学金，连续2年获得中国人民大学学业一等奖学金。
 
 # 🎓 教育经历
@@ -184,6 +184,7 @@ redirect_from:
 - *2020-2023*，厦门大学学业一等奖学金✖️3
 
 ### 优秀论文
+- *2026.06*，2026年国际传播学年会（ICA）信息系统组最佳学生论文奖（通讯）
 - *2025.06*，2025年国际传播学年会（ICA）公共关系组最佳学生论文奖（一作）
 - *2025.05*，第二届“数字传播与媒介中国”学术研讨会二等奖（通讯）
 - *2024.11*，中国新闻史学会智能与计算传播专委会2024年会优秀论文奖（一作）
@@ -235,10 +236,11 @@ redirect_from:
 
 # 📚 学术服务
 - CSSCI期刊《国际新闻界》责任编辑（2023-）
-- SSCI期刊《Information Processing & Management》《Online Information Review》审稿人
+- SSCI期刊《Information Processing & Management》《Online Information Review》《Humanities and Social Sciences Communications》审稿人
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
