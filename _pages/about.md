@@ -22,12 +22,13 @@ redirect_from:
 
 # 👏 欢迎来到我的个人主页
 - 我目前就读于中国人民大学新闻学院，专业为传媒经济学，师从[张辉锋教授](http://jcr.ruc.edu.cn/zw/jzyg/js/e48d5ecf199647e6b6d66187405d2579.htm)；目前正在新加坡国立大学传播与新媒体系进行国家公派博士生联合培养，方向为计算传播学，师从[Subhayan Mukerjee助理教授](https://www.subhayan.com/)。硕士研究生阶段，我师从[宫贺教授](http://jcr.ruc.edu.cn/zw/jzyg/js/96c9099a4c7348c6801c7cec77e74a9b.htm)。
-- 我的研究聚焦于技术中介的传播行为与数字治理，关注人工智能与数字媒体环境下，公众感知、信任建构与组织回应机制的传播过程，尤其是在风险与危机语境中的传播心理与舆论演化。
+- 我的研究聚焦于技术中介的传播行为与数字治理，关注公众感知、信任建构与组织回应机制的传播过程，尤其是在风险与危机语境中的传播心理与舆论演化。
 - 我的研究兴趣主要包括：智能传播与人机交互、数字治理与危机传播、组织传播等。
 - 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
-- 目前我已在《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文13篇（第一作者6篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
+- 目前我已在《新闻与传播研究》《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文17篇（第一作者8篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
 - 我参与国家社科基金重大项目1项、国家社科基金一般项目1项、北京市社科重大专项1项；主持省厅级项目1项，主持校级科研项目2项。
-- 截至2026年1月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文13篇。连续两年（2025、2026）获得国际传播协会（ICA）最佳学生论文奖。连续两年获得清华大学博士生学术论坛“最佳论文奖”。
+- 截至2026年1月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文13篇。
+- 连续两年（2025、2026）获得国际传播协会（ICA）最佳学生论文奖。连续两年获得清华大学博士生学术论坛“最佳论文奖”。
 - 连续2年获得博士研究生国家奖学金，连续2年获得中国人民大学学业一等奖学金。
 
 # 🎓 教育经历
@@ -236,7 +237,7 @@ redirect_from:
 
 # 📚 学术服务
 - CSSCI期刊《国际新闻界》责任编辑（2023-）
-- SSCI期刊《Information Processing & Management》《Online Information Review》《Humanities and Social Sciences Communications》审稿人
+- SSCI期刊《Online Information Review》《Humanities and Social Sciences Communications》《BMC pyschology》《Chinese Journal of Communication》审稿人
 - ICA，AEJMC等国际顶会审稿人
 
 <span class='anchor' id='-gzsx'></span>
